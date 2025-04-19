@@ -1,0 +1,136 @@
+[
+    {
+        "id": 367407989046378506,
+        "username": "__vod__",
+        "mlbb_id": "348945179",
+        "mlbb_username": "[VED]",
+        "max_rank": "Glory 77",
+        "win_rate": "55%",
+        "availability": "8pm +",
+        "roles": {
+            "gold": "beatrix, granger, harith",
+            "exp": "lucas, badang, gatot",
+            "jungle": "joy, suyou, haya",
+            "mid": "all",
+            "roam": "chou, badang, hylos"
+        },
+        "squad": "Valarions"
+    },
+    {
+        "id": 697226310350536824,
+        "username": "stevelacy098",
+        "mlbb_id": "1161083825",
+        "mlbb_username": "SHENIGAMI",
+        "max_rank": "Unranked",
+        "roles": {},
+        "win_rate": "Unknown",
+        "availability": "Not specified",
+        "squad": ""
+    },
+    {
+        "id": 1089279046505996368,
+        "username": "sara059",
+        "mlbb_id": "1439812139",
+        "mlbb_username": "Saraa:)",
+        "max_rank": "Unranked",
+        "roles": {},
+        "win_rate": "Unknown",
+        "availability": "Not specified",
+        "squad": "Hakuna_Matata",
+        "role": "Member"
+    },
+    {
+        "id": 333691607029252097,
+        "username": "mohieddinef",
+        "mlbb_id": "<498871990>",
+        "mlbb_username": "<Just Fridi>",
+        "max_rank": "Unranked",
+        "roles": {},
+        "win_rate": "Unknown",
+        "availability": "Not specified",
+        "squad": ""
+    },
+    {
+        "id": 768718112878231622,
+        "username": "deependahmed9717",
+        "mlbb_id": "969339149",
+        "mlbb_username": "R. Ramirez|\u2022sk",
+        "max_rank": "Unranked",
+        "roles": {},
+        "win_rate": "Unknown",
+        "availability": "Not specified",
+        "squad": ""
+    },
+    {
+        "id": 814297128448688170,
+        "username": "galactic1235",
+        "mlbb_id": "1644648598",
+        "mlbb_username": "XEVOR",
+        "max_rank": "26",
+        "win_rate": "57%",
+        "availability": "8pm+",
+        "roles": {
+            "gold": "granger, beatrix, irithel",
+            "mid": "aurora, vexana, gord"
+        },
+        "squad": ""
+    },
+    {
+        "id": 576877324235178045,
+        "username": "apatchi",
+        "mlbb_id": "1435069864",
+        "mlbb_username": "APACHE",
+        "max_rank": "Glory 73",
+        "win_rate": "52%",
+        "availability": "ela 7sab",
+        "roles": {},
+        "squad": "Genei_Ryodan",
+        "role": "Member"
+    },
+    {
+        "id": 221620841467740160,
+        "username": "s.u.n.n.y2518",
+        "mlbb_id": "928566423",
+        "mlbb_username": "Sunny",
+        "max_rank": "Mythical Glory",
+        "win_rate": "55%",
+        "availability": "10pm-1am",
+        "roles": {
+            "mid": "ceceilion - pharsa - Xavier"
+        },
+        "squad": ""
+    },
+    {
+        "id": 832024864717013113,
+        "username": "oss_att",
+        "mlbb_id": "277542957",
+        "mlbb_username": "DOFFY\u3003",
+        "max_rank": "Unranked",
+        "roles": {},
+        "win_rate": "Unknown",
+        "availability": "Not specified",
+        "squad": ""
+    },
+    {
+        "id": 768200516655906879,
+        "username": "zak.sa.ma",
+        "mlbb_id": "796582042",
+        "mlbb_username": "remo",
+        "max_rank": "Unranked",
+        "roles": {},
+        "win_rate": "Unknown",
+        "availability": "Not specified",
+        "squad": ""
+    },
+    {
+        "id": 635835156879507476,
+        "username": "selene_000",
+        "mlbb_id": "442015332",
+        "mlbb_username": "Blossom",
+        "max_rank": "53",
+        "win_rate": "nb!setup%",
+        "availability": "442015332",
+        "roles": {},
+        "squad": ""
+    }
+]
